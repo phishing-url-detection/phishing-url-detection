@@ -10,7 +10,7 @@ from datetime import date, datetime
 import time
 from dateutil.parser import parse as date_parse
 from urllib.parse import urlparse
-
+!pip install googlesearch-python
 class FeatureExtraction:
     features = []
     def __init__(self,url):
