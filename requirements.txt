@@ -10,4 +10,5 @@ soupsieve==2.4.1
 urllib3==1.26.15
 yarg==0.1.9
 Flask==2.3.2
+scikit-learn==1.2.2
 
